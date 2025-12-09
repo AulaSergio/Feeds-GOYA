@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias GOYA</title>
+        <description>El sitio oficial de noticias y cotilleos del IES Francisco de Goya</description>
+        <language>es</language>
+        <item>
+            <title>¿Segregacion Extraña?</title>
+            <link>https://imgur.com/voyQuCA</link>
+            <description>Esta tarde, a las 16:00, se ha podido oler en el césped un extraño olor a una sustancia amarillenta.</description>
+            <pubDate>Mon, 08 Dec 2025 16:32:00 GMT</pubDate>
+            <guid>https://imgur.com/voyQuCA</guid>
+        </item>
+        <item>
+            <title>¿Luisre es tan joven?</title>
+            <link>https://imgur.com/J6eJ4cF</link>
+            <description>Según estudiantes anónimos, el profesor Luis Regino tendría 40 años. ¡Toda una sorpresa!</description>
+            <pubDate>Tue, 09 Dec 2025 17:45:00 GMT</pubDate>
+            <guid>https://imgur.com/J6eJ4cF</guid>
+        </item>
+        <item>
+            <title>¿Fantasmas?</title>
+            <link>https://imgur.com/8raRpVD</link>
+            <description>Alumnos afirman oír cánticos extraños en los baños del primer bloque durante la tarde.</description>
+            <pubDate>Wed, 10 Dec 2025 18:27:00 GMT</pubDate>
+            <guid>https://imgur.com/8raRpVD</guid>
+        </item>
+    </channel>
+</rss>
