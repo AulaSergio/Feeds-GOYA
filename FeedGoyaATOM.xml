@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Noticias GOYA</title>
+  <subtitle>El sitio oficial de noticias y cotilleos del IES Francisco de Goya</subtitle>
+  <link href="http://www.ejemplo.com/atom.xml" rel="self" />
+  <link href="http://www.ejemplo.com/" rel="alternate" />
+  <updated>2025-11-01T10:00:00Z</updated>
+  <id>http://www.ejemplo.com/</id>
+  <author><name>Noticias GOYA</name></author>
+  
+  <entry>
+    <title>¿Segregación Extraña?</title>
+    <link href="https://imgur.com/voyQuCA" rel="alternate" />
+    <id>https://imgur.com/voyQuCA</id>
+    <updated>2025-12-08T16:32:00Z</updated>
+    <summary>
+      Esta tarde, a las 16:00, se ha podido oler en el césped un extraño olor a una sustancia amarillenta.
+    </summary>
+  </entry>
+
+  <entry>
+    <title>¿Luisre es tan joven?</title>
+    <link href="https://imgur.com/J6eJ4cF" rel="alternate" />
+    <id>https://imgur.com/J6eJ4cF</id>
+    <updated>2025-12-09T17:45:00Z</updated>
+    <summary>
+      Según estudiantes anónimos, el profesor Luis Regino tendría 40 años. ¡Toda una sorpresa!
+    </summary>
+  </entry>
+
+  <entry>
+    <title>¿Fantasmas?</title>
+    <link href="https://imgur.com/8raRpVD" rel="alternate" />
+    <id>https://imgur.com/8raRpVD</id>
+    <updated>2025-12-10T18:27:00Z</updated>
+    <summary>
+      Alumnos afirman oír cánticos extraños en los baños del primer bloque durante la tarde.
+    </summary>
+  </entry>
+
+</feed>
